@@ -10,7 +10,7 @@ Structural Bioinformatics Resources tries to maintain a comprehensive, human cur
 There are multiple webpages from researchers and groups that maintain such collections but they tend to be incomplete and to include multiple dead-links.
 This resource hopes to be a community directory where everyone interested can collaborate and browse different resources and tools used in structural bioinformatics. 
 
-The documentation for the site is organized into a few different sections below:
+The list is organized into a few different sections:
 
 * :ref:`visualization`
 * :ref:`sequence-alignment`
@@ -22,40 +22,42 @@ The documentation for the site is organized into a few different sections below:
 Visualization
 -------------
 
-.. toctree::
-    :maxdepth: 2
+* `UCSF Chimera`_ - an extensible molecular modeling system 
+* `PyMOL`_ - a molecular visualization system 
 
-    docs/visualization
+
+.. _UCSF Chimera: https://www.cgl.ucsf.edu/chimera/
+.. _PyMOL: http://www.pymol.org/
 
 .. _sequence-alignment:
 
 Sequence Alignments
 -------------------
 
-.. toctree::
-    :maxdepth: 2
+* `MAFFT`_ - a multiple sequence alignment program for amino acid or nucleotide sequences
 
-    docs/sequence-aligment
+.. _MAFFT: http://mafft.cbrc.jp/alignment/software/
 
 .. _structure-alignment:
 
 Structure Alignments
 --------------------
 
-.. toctree::
-    :maxdepth: 2
+* `PDBeFold`_ - 3D alignment of protein structures
 
-    docs/structure-aligment	
+.. _PDBeFold: http://www.ebi.ac.uk/msd-srv/ssm/
 
 .. _protein-classification:
 
 Protein Classification Systems
 ------------------------------
 
-.. toctree::
-    :maxdepth: 2
+* `CATH`_ - semi-automatic hierarchical classification of protein domains
+* `SCOP`_ - manual classification of protein structural domains
 
-    docs/protein-classification	
+
+.. _CATH: http://www.cathdb.info/
+.. _SCOP: http://scop.mrc-lmb.cam.ac.uk/scop/
 
 
 
