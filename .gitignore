@@ -1,0 +1,15 @@
+# Libraries.
+#/lib/
+
+# Data.
+#/var/
+
+# Python files.
+*.pyc
+*.pyo
+
+# OS X
+.DS_Store
+
+# Build dir
+_build
