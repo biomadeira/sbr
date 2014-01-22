@@ -63,15 +63,3 @@ Protein Classification Systems
     We would love contributions.
 
 .. _GitHub: https://github.com/biomadeira/sbr/
-
-
-<<<<<<< HEAD
-=======
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
->>>>>>> 036fb0f1f62b405dbe4d7e8c2e9ea5ed2471b0eb
-
