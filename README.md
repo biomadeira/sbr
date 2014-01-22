@@ -7,19 +7,39 @@ This resource hopes to be a community directory where everyone interested can co
 
 Check the collection at http://structural-bioinformatics-resources.readthedocs.org/en/latest/
 
+Features
+--------
 
-Authors and contributors
-------------------------
+- Manually curated list of tools and resources
+- Covers multiple topics on Structural Bioinformatics
+- Community driven
+
+
+Contribute
+----------
+
+- Issue Tracker: github.com/biomadeira/sbr/issues
+- Source Code: github.com/biomadeira/sbr
+
+
+Authors
+-------
 
 By alphabetical order...
 
 * Fábio Madeira <fabiomadeira@me.com>
 
 
+Support
+-------
+
+If you have suggestions or have found any issues or mistakes, please drop as an email.
+
+
 License
 -------
 
-Copyright (c) 2014 by Fábio Madeira and remaining contibutors.
+Copyright (c) 2014 by all contibutors.
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported
 License (CC BY 3.0). To view a copy of this license, visit
