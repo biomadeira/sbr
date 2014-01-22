@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Structural Bioinformatics Resources'
-copyright = u'2014, Fabio Madeira'
+copyright = u'2014, Fábio Madeira'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -197,7 +197,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'StructuralBioinformaticsResources.tex', u'Structural Bioinformatics Resources Documentation',
-   u'Fabio Madeira', 'manual'),
+   u'Fábio Madeira', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -227,7 +227,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'structuralbioinformaticsresources', u'Structural Bioinformatics Resources Documentation',
-     [u'Fabio Madeira'], 1)
+     [u'Fábio Madeira'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -241,7 +241,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'StructuralBioinformaticsResources', u'Structural Bioinformatics Resources Documentation',
-   u'Fabio Madeira', 'StructuralBioinformaticsResources', 'One line description of project.',
+   u'Fábio Madeira', 'StructuralBioinformaticsResources', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -262,9 +262,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Structural Bioinformatics Resources'
-epub_author = u'Fabio Madeira'
-epub_publisher = u'Fabio Madeira'
-epub_copyright = u'2014, Fabio Madeira'
+epub_author = u'Fábio Madeira'
+epub_publisher = u'Fábio Madeira'
+epub_copyright = u'2014, Fábio Madeira'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Structural Bioinformatics resources'
