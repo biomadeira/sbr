@@ -11,7 +11,7 @@ Features
 --------
 
 - Manually curated list of tools and resources
-- Covers multiple topics on Structural Bioinformatics
+- Covers multiple topics
 - Community driven
 
 
