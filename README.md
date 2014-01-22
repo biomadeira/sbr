@@ -13,13 +13,13 @@ Authors and contributors
 
 By alphabetical order...
 
-* Fabio Madeira <fabiomadeira@me.com>
+* Fábio Madeira <fabiomadeira@me.com>
 
 
 License
 -------
 
-Copyright (c) 2014 by Fabio Madeira and remaining contibutors.
+Copyright (c) 2014 by Fábio Madeira and remaining contibutors.
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported
 License (CC BY 3.0). To view a copy of this license, visit
