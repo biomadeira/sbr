@@ -10,18 +10,54 @@ Structural Bioinformatics Resources tries to maintain a comprehensive, human cur
 There are multiple webpages from researchers and groups that maintain such collections but they tend to be incomplete and to include multiple dead-links.
 This resource hopes to be a community directory where everyone interested can collaborate and browse different resources and tools used in structural bioinformatics. 
 
-Vizualization
+The documentation for the site is organized into a few different sections below:
+
+* :ref:`visualization`
+* :ref:`sequence-alignment`
+* :ref:`structure-alignment`
+* :ref:`protein-classification`
+
+.. _visualization:
+
+Visualization
 -------------
-* `UCSF Chimera`_ - an extensible molecular modeling system 
-* `PyMOL`_ - a molecular visualization system 
-
-
-.. _UCSF Chimera: https://www.cgl.ucsf.edu/chimera/
-.. _PyMOL: http://www.pymol.org/
-
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
+
+    docs/visualization
+
+.. _sequence-alignment:
+
+Sequence Alignments
+-------------------
+
+.. toctree::
+    :maxdepth: 2
+
+    docs/sequence-aligment
+
+.. _structure-alignment:
+
+Structure Alignments
+--------------------
+
+.. toctree::
+    :maxdepth: 2
+
+    docs/structure-aligment	
+
+.. _protein-classification:
+
+Protein Classification Systems
+------------------------------
+
+.. toctree::
+    :maxdepth: 2
+
+    docs/protein-classification	
+
+
 
 .. note:: This repository is open source and is available on `GitHub`_. 
     We would love contributions.
@@ -29,10 +65,13 @@ Vizualization
 .. _GitHub: https://github.com/biomadeira/sbr/
 
 
+<<<<<<< HEAD
+=======
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+>>>>>>> 036fb0f1f62b405dbe4d7e8c2e9ea5ed2471b0eb
 
