@@ -9,16 +9,15 @@ Check the collection at http://structural-bioinformatics-resources.readthedocs.o
 
 
 Authors and contributors
-========================
+------------------------
 
 By alphabetical order...
 
 * Fabio Madeira <fabiomadeira@me.com>
 
 
-
 License
-=======
+-------
 
 Copyright (c) 2014 by Fabio Madeira and remaining contibutors.
 
